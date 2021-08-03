@@ -1,0 +1,19 @@
+Mean Drought Index - (SPEI), Year, Model, Statistics, ISO3
+-0.5056, 2020-2039, bcc_csm1_1_m, Annual Anomaly, PRT
+-0.4836, 2020-2039, bcc_csm1_1, Annual Anomaly, PRT
+-0.8344, 2020-2039, ccsm4, Annual Anomaly, PRT
+-0.1725, 2020-2039, cesm1_cam5, Annual Anomaly, PRT
+-0.3392, 2020-2039, csiro_mk3_6_0, Annual Anomaly, PRT
+-1.2236, 2020-2039, gfdl_cm3, Annual Anomaly, PRT
+-0.1331, 2020-2039, gfdl_esm2g, Annual Anomaly, PRT
+-0.573, 2020-2039, gfdl_esm2m, Annual Anomaly, PRT
+0.33293, 2020-2039, ipsl_cm5a_lr, Annual Anomaly, PRT
+0.03667, 2020-2039, ipsl_cm5a_mr, Annual Anomaly, PRT
+0.03974, 2020-2039, miroc5, Annual Anomaly, PRT
+-0.917, 2020-2039, miroc_esm_chem, Annual Anomaly, PRT
+-0.9805, 2020-2039, miroc_esm, Annual Anomaly, PRT
+-0.4362, 2020-2039, mri_cgcm3, Annual Anomaly, PRT
+-0.3602, 2020-2039, noresm1_m, Annual Anomaly, PRT
+-1.1105, 2020-2039, Ensemble (10th Percentile), Annual Anomaly, PRT
+-0.3832, 2020-2039, Ensemble (50th Percentile), Annual Anomaly, PRT
+0.22994, 2020-2039, Ensemble (90th Percentile), Annual Anomaly, PRT
