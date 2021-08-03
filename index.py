@@ -4,6 +4,8 @@ import dash_html_components as html
 import dash_bootstrap_components as dbc
 from app import app
 from pages import Emissoes,EventosExtremos,AboutUs,Precipitacoes,Temperatura,Contact,Members,TheProject
+from app import server
+
 
 nav_item_about_us = dbc.NavItem(dbc.NavLink("About Us ", href="/AboutUs", active="exact"))
 nav_item_project = dbc.NavItem(dbc.NavLink("The Project", href="/TheProject", active="exact"))
