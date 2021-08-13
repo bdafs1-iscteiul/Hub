@@ -3,7 +3,7 @@ import dash_core_components as dcc
 import dash_html_components as html
 import dash_bootstrap_components as dbc
 from app import app
-from pages import Emissoes,EventosExtremos,AboutUs,Precipitacoes,Temperatura,Contact,Members,TheProject
+from pages import Emissoes,EventosExtremos,AboutUs,Precipitacoes,Temperatura,Contact,Members,TheProject,UnderConstruction
 from app import server
 
 
@@ -56,7 +56,7 @@ app.layout = html.Div(
               [dash.dependencies.Input('url', 'pathname')])
 def display_page(pathname):
     if pathname == "/":
-        return AboutUs.layout
+        return UnderConstruction.layout
     elif pathname == '/ExtremeEvents':
         return EventosExtremos.layout
     elif pathname == '/Precipitations':
